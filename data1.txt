@@ -1,2 +1,1 @@
-Name: Vinay
-Account: SBI
+interest rate:9.5%
